@@ -192,7 +192,7 @@
             @endforeach
         @endif
 
-        <div class="section-title" style="margin-top: 24px;">Skill ABCD</div>
+        <div class="section-title" style="margin-top: 24px;">Sedang Belajar Skill </div>
         <div class="skill-tags">
             @foreach ($skill as $item)
                 <span class="skill-tag">{{ $item }}</span>
